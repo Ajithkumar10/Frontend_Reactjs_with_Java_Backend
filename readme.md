@@ -18,4 +18,4 @@ Related projects:
 
 Tip: [How to enable LiveReload in IntelliJ](http://stackoverflow.com/a/35895848/2284884)
 
-This project uses gradle version: 7.4
+This project uses gradle version: 7.4- and JDK 17
